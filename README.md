@@ -1,2 +1,2 @@
 # webshop
-Web
+My first webpage as a dev trainee
